@@ -1,5 +1,5 @@
 {
-  "name": "pod2-poc",
+  "name": "ag2-print",
   "version": "1.0.0",
   "scripts": {
     "start": "gulp serve",

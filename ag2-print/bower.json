@@ -1,10 +1,8 @@
 {
-  "name": "poc-pod-2",
+  "name": "ag2-print",
   "version": "0.0.0",
-  "homepage": "https://github.com/ag2technology/poc-pod-2",
-  "authors": [
-    "ieltxu13 <ieltxu.alganaras@gmail.com>"
-  ],
+  "homepage": "",
+  "authors": "Omar Andres Gonzalez",
   "description": "",
   "main": "",
   "moduleType": [],
